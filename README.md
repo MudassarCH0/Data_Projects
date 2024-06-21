@@ -1,8 +1,8 @@
-# TripleTen_projects
+# TripleTen Projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
-| Project number | Title | Description |
+| Project Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
 | 2 | Instacart | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
