@@ -2,11 +2,11 @@
 Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp.
 
 
-| Project Number | Title | Description |
+| Project Number | Title | Link |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | Instacart | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
-| 5 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
-| 6 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | Apps Marketplace | [Link](https://github.com/MudassarCH0/Apps-Marketplace) |
+| 2 | Store Operations | [Link](https://github.com/MudassarCH0/Store-Operations) |
+| 3 | Ride Sharing Company | [Link](https://github.com/MudassarCH0/Ride-Sharing) |
+| 4 | E-commerce Site | [Link](https://github.com/MudassarCH0/E-commerce-Site) |
+| 5 | Property Investment | [Link](https://github.com/MudassarCH0/Property-Investmemt) |
+| 6 | Restaurant Aggregator | [Link](https://github.com/MudassarCH0/Restaurant-Aggregator) |
