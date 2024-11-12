@@ -10,3 +10,4 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | 4 | Store Operations | [Link](https://github.com/MudassarCH0/Store-Operations) |
 | 5 | Apps Marketplace | [Link](https://github.com/MudassarCH0/Apps-Marketplace) |
 | 6 | Restaurant Aggregator | [Link](https://github.com/MudassarCH0/Restaurant-Aggregator) |
+| 7 | School Operations | [Link](https://github.com/MudassarCH0/Restaurant-Aggregator) |
