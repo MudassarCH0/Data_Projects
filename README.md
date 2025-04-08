@@ -2,7 +2,7 @@
 Below is the list of TripleTen Bootcamp and other projects.
 
 
-| Project Number | Type | Title | Link |
+| Number | Type | Title | Link |
 | :-----------: | ----------- |----------- | ----------- |
 | 1 | SQL | Ride Sharing Company | [Link](https://github.com/MudassarCH0/Ride-Sharing) |
 | 2 | Excel | Property Investment | [Link](https://github.com/MudassarCH0/Property-Investmemt)  |
