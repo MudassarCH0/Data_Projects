@@ -11,4 +11,4 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | 5 | Apps Marketplace | [Link](https://github.com/MudassarCH0/Apps-Marketplace) |
 | 6 | Restaurant Aggregator | [Link](https://github.com/MudassarCH0/Restaurant-Aggregator) |
 | 7 | School Operations | [Link](https://github.com/MudassarCH0/Student-Performance) |
-| 8 | Pizza Franchise | [Link](https://github.com/MudassarCH0/AmorPizza) |
+| 8 | Pizza Franchise | [Link](https://github.com/MudassarCH0/PizzaFranchise) |
