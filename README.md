@@ -1,14 +1,14 @@
 # Projects
-Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp.
+Below is the list of TripleTen Bootcamp and other projects.
 
 
-| Project Number | Title | Link |
-| :-----------: | ----------- |----------- |
-| 1 | Property Investment | [Link](https://github.com/MudassarCH0/Property-Investmemt)  |
-| 2 | Ride Sharing Company | [Link](https://github.com/MudassarCH0/Ride-Sharing) |
-| 3 | E-commerce Site | [Link](https://github.com/MudassarCH0/E-commerce-Site) |
-| 4 | Store Operations | [Link](https://github.com/MudassarCH0/Store-Operations) |
-| 5 | Apps Marketplace | [Link](https://github.com/MudassarCH0/Apps-Marketplace) |
-| 6 | Restaurant Aggregator | [Link](https://github.com/MudassarCH0/Restaurant-Aggregator) |
-| 7 | School Operations | [Link](https://github.com/MudassarCH0/Student-Performance) |
-| 8 | Pizza Franchise | [Link](https://github.com/MudassarCH0/PizzaFranchise) |
+| Project Number | Type | Title | Link |
+| :-----------: | ----------- |----------- | ----------- |
+| 1 | SQL | Ride Sharing Company | [Link](https://github.com/MudassarCH0/Ride-Sharing) |
+| 2 | Excel | Property Investment | [Link](https://github.com/MudassarCH0/Property-Investmemt)  |
+| 3 | Excel | E-commerce Site | [Link](https://github.com/MudassarCH0/E-commerce-Site) |
+| 4 | Tableau | School Operations | [Link](https://github.com/MudassarCH0/Student-Performance) |
+| 5 | Tableau | Store Operations | [Link](https://github.com/MudassarCH0/Store-Operations) |
+| 6 | Tableau | Restaurant Aggregator | [Link](https://github.com/MudassarCH0/Restaurant-Aggregator) |
+| 7 | Power BI | Apps Marketplace | [Link](https://github.com/MudassarCH0/Apps-Marketplace) |
+| 8 | Power BI | Pizza Franchise | [Link](https://github.com/MudassarCH0/PizzaFranchise) |
